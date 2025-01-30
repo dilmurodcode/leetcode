@@ -14,5 +14,5 @@ class Solution:
 
         return -1
 
-a = Solution(0)
+a = Solution()
 print(a.firstUniqChar('leetcode'))
